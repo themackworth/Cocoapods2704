@@ -1,0 +1,1 @@
+PODS_PROJECTA_OTHER_LDFLAGS = -framework "AVFoundation" -framework "CoreMedia" -framework "MediaPlayer"

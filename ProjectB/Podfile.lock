@@ -1,0 +1,14 @@
+PODS:
+  - ProjectA
+
+DEPENDENCIES:
+  - ProjectA (from `../ProjectA`)
+
+EXTERNAL SOURCES:
+  ProjectA:
+    :path: ../ProjectA
+
+SPEC CHECKSUMS:
+  ProjectA: 2e0fa55ff9f2efd0308386ecaeb7d0c11dd96409
+
+COCOAPODS: 0.34.4
